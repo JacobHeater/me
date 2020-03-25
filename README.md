@@ -1,8 +1,4 @@
-# Jacob Heater
-
-*Passionate, experienced software engineer*
-
-**Washington DC Metro Area**
+# Washington DC Metro Area
 
 ## Technical Toolkit
 
