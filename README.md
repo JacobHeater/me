@@ -88,3 +88,7 @@
 
 Please connect on [LinkedIn](https://www.linkedin.com/in/jacobheater)
 if you wish to contact me. That is my preferred method of contact.
+
+## About Me
+
+[Click here](./about) to learn more about me.
