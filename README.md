@@ -83,3 +83,8 @@
 * Remote Preferred
 * Washington DC Metro Area
 * No Relocation
+
+## Contact Me
+
+Please connect on [LinkedIn](https://www.linkedin.com/in/jacobheater)
+if you wish to contact me. That is my preferred method of contact.
