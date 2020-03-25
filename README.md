@@ -1,5 +1,3 @@
-# Washington DC Metro Area
-
 ## Technical Toolkit
 
 * **JavaScript**
@@ -79,3 +77,9 @@
 * [LinkedIn](https://www.linkedin.com/in/jacobheater)
 * [HackerRank](https://www.hackerrank.com/jacobheater)
 * [Code Signal](https://app.codesignal.com/profile/jacobheater)
+
+## Preferred Locations
+
+* Remote Preferred
+* Washington DC Metro Area
+* No Relocation
