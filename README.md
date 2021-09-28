@@ -53,7 +53,8 @@
 
 | Company | Title | Timeframe | Location |
 | ------- | ----- | --------- | -------- |
-| **Swimlane** | Senior Software Developer | 06/2019 - Present | Remote |
+| **Swimlane** | Engineering Manager       | 03/2021 - Present | Remote |
+| **Swimlane** | Senior Software Developer | 06/2019 - 03/2021 | Remote |
 | **Cofense (formerly PhishMe)** | Software Engineer II | 08/2017 - 06/2019 | Remote |
 | **Harrity and Harrity** | Software Architect Consultant | 03/2018 - 04/2019 | Remote |
 | **Deltek** | Senior Software Engineering Consultant | 05/2016 - 08/2017 | Herndon, VA |
