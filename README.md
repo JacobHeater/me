@@ -47,7 +47,7 @@
 | School | City | Year Graduated | Honors |
 | ------ | ---- | -------------- | ------ |
 | **George Mason University** | Fairfax, VA | 2009 | **Cum Laude** |
-| **Lord Fairax Community College** | Middletown, VA | 2007 | |
+| **Lord Fairfax Community College** | Middletown, VA | 2007 | |
 
 ## Professional Experience
 
