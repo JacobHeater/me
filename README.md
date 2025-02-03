@@ -1,4 +1,4 @@
-# My Resume
+# Jacob Heater
 
 ## Technical Toolkit
 
