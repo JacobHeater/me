@@ -4,6 +4,7 @@
 
 * **JavaScript**
   * Node.js, Angular, React, Object Oriented JavaScript, jQuery, jQuery Plugins (consuming and authoring), Knockout, Underscore, Lodash, WebRTC, SignalR, Three.js, Vanilla JavaScript, D3.js, Regular Expressions, RxJS, Promises, Functional Programming, ES2015/ES6/ESNext, TypeScript, Express.js, REST APIs, AJAX, MongoDB, Office Add-ins
+  * Professional understanding of JavaScript utilizing both OOP and functional programming paradigms.
 
 * **.NET**
   * C#, WCF, SignalR, Entity Framework, MSTest, SQL Server (2008/2012/2016), WPF, Windows Forms, ASP. NET Web Forms/MVC, LINQ, TFS, GIT, Visual Studio (2008/2010/2012/2013/2015), VB, Console Applications, MSBuild, Multithreading, Asynchronous Programming, IIS (6/7/8), Web API, COM
@@ -19,7 +20,9 @@
   * Android, Ionic, React Native
 
 * **Python**
-  * Advanced Python concepts, such as classes, lambdas, array manipulation (splicing, map, filter, reduce, etc.), string templating, and more.
+  * Deep understanding of Python programming.
+  * Have worked with Django framework.
+  * Strong conceptual understanding of OOP in Python.
 
 * **Web Services**
   * REST, SOAP
@@ -53,7 +56,9 @@
 
 | Company | Title | Timeframe | Location |
 | ------- | ----- | --------- | -------- |
-| **Swimlane** | Engineering Manager       | 03/2021 - Present | Remote |
+| **Expel** | Senior Engineering Manager | 08/2022 - Present | Remote |
+| **Expel** | Engineering Manager | 01/2022 - 08/2022 | Remote |
+| **Swimlane** | Engineering Manager       | 03/2021 - 01/2022 | Remote |
 | **Swimlane** | Senior Software Developer | 06/2019 - 03/2021 | Remote |
 | **Cofense (formerly PhishMe)** | Software Engineer II | 08/2017 - 06/2019 | Remote |
 | **Harrity and Harrity** | Software Architect Consultant | 03/2018 - 04/2019 | Remote |
@@ -77,7 +82,6 @@
 ## Other Links About Me
 
 * [StackOverflow](http://stackoverflow.com/users/2023218/jacob-heater)
-* [LinkedIn](https://www.linkedin.com/in/jacobheater)
 * [HackerRank](https://www.hackerrank.com/jacobheater)
 * [Code Signal](https://app.codesignal.com/profile/jacobheater)
 
@@ -86,12 +90,3 @@
 * Remote Preferred
 * Washington DC Metro Area
 * No Relocation
-
-## Contact Me
-
-Please connect on [LinkedIn](https://www.linkedin.com/in/jacobheater)
-if you wish to contact me. That is my preferred method of contact.
-
-## About Me
-
-[Click here](./about) to learn more about me.
